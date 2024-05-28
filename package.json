@@ -1,0 +1,14 @@
+{
+  "name": "demo-web-shop",
+  "version": "1.0.0",
+  "description": "Ceci est un projet d'automatisation sur le site Demo Web Shop avec l'outil playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.12"
+  }
+}
