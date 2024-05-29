@@ -10,5 +10,9 @@
   "devDependencies": {
     "@playwright/test": "^1.44.1",
     "@types/node": "^20.12.12"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
   }
 }
